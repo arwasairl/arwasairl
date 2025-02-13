@@ -1,4 +1,12 @@
-## Hi there 👋
+## GitHub profile for arwasairl
+- Content here mainly contains random repositories or projects.
+
+# Repository directory
+- [win32 ransom hawkTuah (December, 2024)](https://github.com/arwasairl/ransom.win32.HawkTuah)
+- [win32 trojan krabbypatty (November, 2023)](https://github.com/arwasairl/trojan.win.krabbypatty)
+- [win32 trojan ILOVEYUUKA (August, 2023)](https://github.com/arwasairl/trojan.win.ILOVEYUUKA)
+- [win32 trojan Kristik's Ultra Awesome Panel (June, 2023)](https://github.com/arwasairl/Kristiks-Ultra-Awesome-Panel)
+- [renpy visual novel Kristik Saga 3 (June, 2022)](https://github.com/arwasairl/Kristik-Saga-3-v2)
 
 <!--
 **arwasairl/arwasairl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
