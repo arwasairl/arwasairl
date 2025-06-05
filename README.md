@@ -2,6 +2,7 @@
 - Content here mainly contains random repositories or projects.
 
 # Repository directory
+Content here is sorted from newest to oldest.
 - [win32 ransom hawkTuah (December, 2024)](https://github.com/arwasairl/ransom.win32.HawkTuah)
 - [win32 trojan krabbypatty (November, 2023)](https://github.com/arwasairl/trojan.win.krabbypatty)
 - [win32 trojan ILOVEYUUKA (August, 2023)](https://github.com/arwasairl/trojan.win.ILOVEYUUKA)
