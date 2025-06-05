@@ -3,6 +3,8 @@
 
 # Repository directory
 Content here is sorted from newest to oldest.
+- [Unity VR The Waiting Room Assets (June, 2025)](https://github.com/arwasairl/The-Waiting-Room-Assets)
+- [Unity VR The Waiting Room Unity Project (June, 2025)](https://github.com/arwasairl/The-Waiting-Room-Unity)
 - [win32 ransom hawkTuah (December, 2024)](https://github.com/arwasairl/ransom.win32.HawkTuah)
 - [win32 trojan krabbypatty (November, 2023)](https://github.com/arwasairl/trojan.win.krabbypatty)
 - [win32 trojan ILOVEYUUKA (August, 2023)](https://github.com/arwasairl/trojan.win.ILOVEYUUKA)
