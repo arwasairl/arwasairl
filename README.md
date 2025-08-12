@@ -3,6 +3,7 @@
 
 # Repository directory
 Content here is sorted from newest to oldest.
+- [FLAGSmaker for Microsoft Flight Simulator 2020/2024 (August, 2025)](https://github.com/arwasairl/FLAGSMaker)
 - [Unity VR The Waiting Room Assets (June, 2025)](https://github.com/arwasairl/The-Waiting-Room-Assets)
 - [Unity VR The Waiting Room Unity Project (June, 2025)](https://github.com/arwasairl/The-Waiting-Room-Unity)
 - [win32 ransom hawkTuah (December, 2024)](https://github.com/arwasairl/ransom.win32.HawkTuah)
